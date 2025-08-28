@@ -45,6 +45,22 @@ This will generate:
 - `figures/wordcloud.png`
 - `figures/sentiment_scores_barplot.png`
 
+## 🖼️ Figures
+[View all figures ➜](./figures/)
+
+**Frequent Words (Barplot)**  
+![Frequent Words](figures/frequent_words_barplot.png)
+
+**Word Cloud**  
+![Word Cloud](figures/wordcloud.png)
+
+**NRC Sentiment Totals**  
+![NRC Sentiment](figures/sentiment_scores_barplot.png)
+
+**Top Positive vs Negative Words (bing lexicon)**  
+![Top Positive vs Negative Words](figures/top_pos_neg_words.png)
+
+
 ## 📝 Method overview
 - **Text cleaning**: lowercase, remove punctuation/numbers/URLs/stopwords; stemming; custom domain terms removed (`aapl`, `apple`).
 - **Term frequency**: Term-Document Matrix via `tm`; top terms visualized.
@@ -63,7 +79,7 @@ If you adapt from a specific notebook (e.g., Kaggle), please add a link here and
 MIT — see `LICENSE`.
 
 ![Top Positive vs Negative Words](figures/top_pos_neg_words.png)
-![Sentiment Over Time](figures/sentiment_over_time.png)
+
 
 
 ---
@@ -71,4 +87,5 @@ MIT — see `LICENSE`.
 **Author:** Eva Samitova  
 **Course:** Text Analytics  
 **Date:** 2025-07
+
 
