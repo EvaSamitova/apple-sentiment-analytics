@@ -78,14 +78,11 @@ If you adapt from a specific notebook (e.g., Kaggle), please add a link here and
 ## ⚖️ License
 MIT — see `LICENSE`.
 
-![Top Positive vs Negative Words](figures/top_pos_neg_words.png)
-
-
-
 ---
 
 **Author:** Eva Samitova  
 **Course:** Text Analytics  
 **Date:** 2025-07
+
 
 
