@@ -1,0 +1,13 @@
+# R junk
+.Rhistory
+.RData
+.Rproj.user/
+.DS_Store
+
+# Data: keep a README, ignore actual CSVs
+data/*
+!data/README.md
+
+# (optional) If your apple.csv sits in root instead of /data
+apple.csv
+
